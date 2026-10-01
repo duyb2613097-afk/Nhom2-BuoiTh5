@@ -44,6 +44,7 @@ Tạo video ngắn khoảng **30 giây** giới thiệu lợi ích của công n
 - Có thể sử dụng tính năng AI của CapCut hoặc chỉnh sửa thủ công.
 - Xuất video dưới dạng MP4.
 - Nếu video có dung lượng lớn, lưu trên Google Drive và chia sẻ liên kết.
+- link gg drive : https://drive.google.com/file/d/159UEKddLHuYtALsqL_RwNXAvisDg9e4p/view?usp=sharing 
 
 ### Nhiệm vụ 3.1 – Tạo mã nguồn HTML hiển thị nội dung số
 
